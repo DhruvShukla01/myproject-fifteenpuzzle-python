@@ -16,6 +16,9 @@
 ## Overview
 This project implements the classic Fifteen Puzzle game. Utilizing Python's `tkinter` for its GUI and `numpy` for matrix operations, players can interact with the game in a graphical window to shuffle tiles and aim to solve the puzzle.
 
+<img width="479" alt="Screenshot 2023-08-14 at 5 56 46 AM" src="https://github.com/DhruvShukla01/myproject-fifteenpuzzle-python/assets/135282874/58f01c10-a59d-4ab5-9c6c-d169388b5971">
+<img width="375" alt="Screenshot 2023-08-14 at 5 58 02 AM" src="https://github.com/DhruvShukla01/myproject-fifteenpuzzle-python/assets/135282874/bfcea316-dba5-4394-aabd-a07e2ce46d03">
+
 ## Installation
 1. Ensure Python is installed on your machine.
 2. Install the required libraries:
