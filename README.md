@@ -27,7 +27,7 @@ This project implements the classic Fifteen Puzzle game. Utilizing Python's `tki
    ```
 3. Clone the repository or download the game files.
 4. Navigate to the directory and run:
-For Terminal File
+For Commandline File:
     ```bash
    python fifteen.py
     ```
